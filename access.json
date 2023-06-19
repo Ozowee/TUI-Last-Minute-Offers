@@ -1,0 +1,8 @@
+{
+    "Keys":{
+        "WebhookUrlUnder4kPLN":"Put webhookURl here",
+        "WebhookUrlUnder10kPLN":"Put webhookURl here",
+        "WebhookUrlOver10kPLN":"Put webhookURl here",
+        "ErrorWebhookUrl":"Put webhookURl here"
+    }
+}
